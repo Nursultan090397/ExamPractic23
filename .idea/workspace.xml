@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ee6aeba-8c2c-48df-a2e9-0593b1a83106" name="Changes" comment="" />
+    <list default="true" id="5ee6aeba-8c2c-48df-a2e9-0593b1a83106" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/LibraryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/LibraryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libraryProject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libraryProject/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libraryProject/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libraryProject/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libraryProject/model/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libraryProject/model/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libraryProject/model/LibraryMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libraryProject/model/LibraryMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libraryProject/service/impl/LibraryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libraryProject/service/impl/LibraryServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FLGvKnAYPPEisoLqibSq1Tji5S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,13 +35,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libraryProject.Main" />
+      <module name="ExamPractic23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="libraryProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +71,66 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664264181063</updated>
+      <workItem from="1664264182247" duration="12575000" />
+      <workItem from="1664278448481" duration="8945000" />
+      <workItem from="1664287513994" duration="93000" />
+      <workItem from="1664287647640" duration="48000" />
+      <workItem from="1664287758775" duration="192000" />
+      <workItem from="1664288031537" duration="37000" />
+      <workItem from="1664288263169" duration="234000" />
+      <workItem from="1664288502331" duration="3000" />
+      <workItem from="1664288894206" duration="10000" />
+      <workItem from="1664289014683" duration="15000" />
+      <workItem from="1664289032800" duration="7000" />
+      <workItem from="1664289091925" duration="16000" />
+      <workItem from="1664289136522" duration="11000" />
+      <workItem from="1664289289278" duration="341000" />
+      <workItem from="1664289636176" duration="253000" />
+      <workItem from="1664289958647" duration="105000" />
+      <workItem from="1664290081234" duration="16000" />
+      <workItem from="1664290106440" duration="283000" />
+      <workItem from="1664290394534" duration="1000" />
+      <workItem from="1664290450815" duration="347000" />
+      <workItem from="1664290838441" duration="30000" />
+      <workItem from="1664290885128" duration="13000" />
+      <workItem from="1664290912746" duration="32000" />
+      <workItem from="1664290982656" duration="66000" />
+      <workItem from="1664291076588" duration="71000" />
+      <workItem from="1664291176805" duration="64000" />
+      <workItem from="1664291295069" duration="39000" />
+      <workItem from="1664291350043" duration="16000" />
+      <workItem from="1664291400053" duration="50000" />
+      <workItem from="1664291469146" duration="440000" />
+      <workItem from="1664292000385" duration="182000" />
+      <workItem from="1664292244226" duration="43000" />
+      <workItem from="1664292322521" duration="1508000" />
+      <workItem from="1664338385188" duration="103000" />
+      <workItem from="1664338504672" duration="44000" />
+      <workItem from="1664338563414" duration="12000" />
+      <workItem from="1664338578189" duration="3000" />
+      <workItem from="1664338613697" duration="1702000" />
+      <workItem from="1664340339335" duration="117000" />
+      <workItem from="1664340476457" duration="28000" />
+      <workItem from="1664340542034" duration="570000" />
+      <workItem from="1664341433999" duration="19000" />
+      <workItem from="1664341489113" duration="46000" />
+      <workItem from="1664341551615" duration="250000" />
+      <workItem from="1664342104213" duration="4444000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,7 +1,6 @@
 package libraryProject.model;
 
-import libraryProject.enums.Gender;
-
+import java.awt.print.Book;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,7 +8,6 @@ public class LibraryMember {
     private Long memberId;
     private String name;
     private int age;
-    private Gender gender;
     private Book currentlyReading;
     private List<Book> finishedBooks = new ArrayList<>();
 
@@ -29,13 +27,6 @@ public class LibraryMember {
         this.age = age;
     }
 
-    public Gender getGender() {
-        return gender;
-    }
-
-    public void setGender(Gender gender) {
-        this.gender = gender;
-    }
 
     public Book getCurrentlyReading() {
         return currentlyReading;
